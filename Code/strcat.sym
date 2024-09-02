@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	finchaine         3002
+//	loop              3006
+//	fin               300C
+//	source            300D
+//	dest              3013
+

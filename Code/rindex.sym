@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	loop              3004
+//	majR4             300C
+//	fin               300F
+//	HATL              3010
+//	chaine            3010
+//	caract            3016
+

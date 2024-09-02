@@ -1,0 +1,17 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	loop              3003
+//	difference1       300F
+//	difference2       3015
+//	chaine1plusgrand  301B
+//	chaine2plusgrand  301D
+//	identique         301F
+//	P                 3021
+//	N                 3022
+//	Z                 3023
+//	fin               3024
+//	chaine1           3025
+//	chaine2           302B
+

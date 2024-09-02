@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	loop              3004
+//	caracteretrouve   300C
+//	fin               300E
+//	chaine            3010
+//	caract            301C
+
